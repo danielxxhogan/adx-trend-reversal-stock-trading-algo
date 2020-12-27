@@ -1,0 +1,9 @@
+_pycache_
+adx.log
+config.py
+daily-atrs.json
+oanda-daily-atrs.json
+sp-500.csv
+sp-500-orig.csv
+sp-900.csv
+sp-900-orig.csv
